@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1789344086 source:c:\users\roman\desktop\facultad\tópicos de programación\libreria\tdasecpal\pruebamistring\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../miString/miString.h"
+	"../SecPal/SecPal.h"
+
+1789341392 c:\users\roman\desktop\facultad\tópicos de programación\libreria\tdasecpal\mistring\mistring.h
+	<stdbool.h>
+	<stddef.h>
+
+1789050691 c:\users\roman\desktop\facultad\tópicos de programación\libreria\tdasecpal\secpal\secpal.h
+	<stdbool.h>
+	<stdio.h>
+
+1789528512 source:c:\users\roman\desktop\facultad\tópicos de programación\tda_sec_pal\pruebamistring\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../miString/miString.h"
+	"../SecPal/SecPal.h"
+
+1789341392 c:\users\roman\desktop\facultad\tópicos de programación\tda_sec_pal\mistring\mistring.h
+	<stdbool.h>
+	<stddef.h>
+
+1789050691 c:\users\roman\desktop\facultad\tópicos de programación\tda_sec_pal\secpal\secpal.h
+	<stdbool.h>
+	<stdio.h>
+

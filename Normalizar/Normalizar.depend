@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1789242698 source:c:\users\roman\desktop\facultad\tópicos de programación\libreria\tdasecpal\normalizar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../SecPal/SecPal.h"
+
+1789050691 c:\users\roman\desktop\facultad\tópicos de programación\libreria\tdasecpal\secpal\secpal.h
+	<stdbool.h>
+	<stdio.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1789655017 source:c:\users\laboratorios\downloads\proyectos-topicos\proyectos\testvector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"../Vector/Vector.h"
+
+1789654787 c:\users\laboratorios\downloads\proyectos-topicos\proyectos\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+
+1791511339 source:c:\users\roman\desktop\facultad\tópicos de programación - limpio\testvector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"../Vector/Vector.h"
+
+1789654787 c:\users\roman\desktop\facultad\tópicos de programación - limpio\vector\vector.h
+	<stddef.h>
+	<stdbool.h>
+
