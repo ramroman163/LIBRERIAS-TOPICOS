@@ -35,6 +35,10 @@ Carpetas
 
 # Clase 6 - Matrices - 24/9
 
+Carpetas
+- Matriz
+- TestMatriz
+
 # Clase 7 - Ordenamiento (Selección y MergeSort) - 1/10
 
 Trabajamos sobre TDA Vector

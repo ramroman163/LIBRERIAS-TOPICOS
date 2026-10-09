@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1790259636 source:c:\users\roman\desktop\facultad\tópicos de programación\testmatriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Matriz/Matriz.h"
+
+1790259605 c:\users\roman\desktop\facultad\tópicos de programación\matriz\matriz.h
+	<stddef.h>
+
+1791513797 source:c:\users\roman\desktop\facultad\tópicos de programación - limpio\testmatriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Matriz/Matriz.h"
+
+1791513873 c:\users\roman\desktop\facultad\tópicos de programación - limpio\matriz\matriz.h
+	<stddef.h>
+
